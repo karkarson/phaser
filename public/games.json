@@ -1,0 +1,91 @@
+[
+    {
+        "version": "1.1.0",
+        "id": "cardMatching",
+        "name": "짝맞추기",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_card.png",
+        "url": "http://localhost:3030/games/cardMatching/",
+        "status": "new",
+        "desc": "2장 혹은 3장의 짝을 맞춰주세요",
+        "download": "http://localhost:3030/downloads/games/cardMatching.zip",
+        "help": "http://localhost:3030/games/cardMatching/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "tower",
+        "name": "뱁비부 착륙작전",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_tower.png",
+        "url": "http://localhost:3030/games/tower/",
+        "desc": "뱁새들을 안전하게 착륙시켜주세요!",
+        "download": "http://localhost:3030/downloads/games/tower.zip",
+        "help": "http://localhost:3030/games/tower/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "bottle",
+        "name": "돌려라! 큰손처럼",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_bottle.png",
+        "url": "http://localhost:3030/games/bottle/",
+        "desc": "소주병을 돌려 벌칙을 받아라!",
+        "download": "http://localhost:3030/downloads/games/bottle.zip",
+        "help": "http://localhost:3030/games/bottle/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "planet",
+        "name": "헴의 혹성탈출",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_planet.png",
+        "url": "http://localhost:3030/games/planet/",
+        "desc": "외계인을 피해 혹성을 탈출하세요.",
+        "download": "http://localhost:3030/downloads/games/planet.zip",
+        "help": "http://localhost:3030/games/planet/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "knife",
+        "name": "던져라! 엑스칼리버",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_knife.png",
+        "url": "http://localhost:3030/games/knife/",
+        "desc": "통나무에 많은 칼을 꼽아주세요!",
+        "download": "http://localhost:3030/downloads/games/knife.zip",
+        "help": "http://localhost:3030/games/knife/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "1to25",
+        "name": "순서대로눌러요",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_1to25.png",
+        "url": "http://localhost:3030/games/1to25/",
+        "desc": "1부터 25까지 제일 먼저 누르는 사람이 승자",
+        "download": "http://localhost:3030/downloads/games/1to25.zip",
+        "help": "http://localhost:3030/games/1to25/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "wam",
+        "name": "베니를잡아라",
+        "type": "Basic",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_wam.png",
+        "url": "http://localhost:3030/games/wam/",
+        "desc": "난 한놈만 팬다! 그라 말고 배니만 잡아라~",
+        "download": "http://localhost:3030/downloads/games/wam.zip",
+        "help": "http://localhost:3030/games/wam/assets/help.png"
+    },
+    {
+        "version": "1.1.0",
+        "id": "updown",
+        "name": "업앤다운",
+        "type": "Turn",
+        "thumb": "http://localhost:3030/commons/thumbs/thumb_updown.png",
+        "url": "http://localhost:3030/games/updown/",
+        "desc": "업앤다운! 카드의 숫자가 높을까? 낮을까?",
+        "download": "http://localhost:3030/downloads/games/updown.zip",
+        "help": "http://localhost:3030/games/updown/assets/help.png"
+    }
+]
